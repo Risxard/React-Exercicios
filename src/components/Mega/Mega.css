@@ -1,0 +1,11 @@
+.qtde{
+    margin: 10px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.qtde input{
+    width: 40px;
+    height: 30px;
+    margin: 10px;
+}
